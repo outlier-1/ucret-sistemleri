@@ -1,0 +1,7 @@
+Projenin kaynak kodlarý src klasörünün altýndadýr
+Ýmalat merkezleri,iþçilik ve veritabaný ile ilgili
+kodlar ayrý klasörlerde tutulmaktadýr.
+-------------------------------------------------
+Kaynak kodlarý görebilmek için herhangi bir java
+derleyicisinde .java uzantýlý dosyalar açýlabilir.
+-------------------------------------------------
